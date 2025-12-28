@@ -1,0 +1,2 @@
+# A-Compact-Potentiostat-for-Electrochemical-Analysis-Using-Cyclic-Voltammetry-and-Chronoamperometry
+This repository presents a low-cost Arduino-based potentiostat for cyclic voltammetry and chronoamperometry. The system controls −1 to +1 V and measures −200 to +200 µA faradaic currents. Validation includes ruthenium hexaammine and determination of an unknown paracetamol concentration. Code, circuit values, and datasets are provided.
